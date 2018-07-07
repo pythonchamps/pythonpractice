@@ -1,0 +1,6 @@
+THis is the file to be ModiFIed
+the TEXT of this FILe will be replaced
+and this FiLe will be prinTED in all
+Caps except HighliGHTED WoRds.
+
+This is a textfile.

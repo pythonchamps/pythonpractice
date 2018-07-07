@@ -1,0 +1,27 @@
+1111
+Total 3 students scored more than or equal to 60%
+The Students Are: 
+1 Meghraj 69.0
+10 Siddarth 70.0
+9 Parakh 73.2
+
+Total 4 students scored more than or equal to 50% and less than 60%The Students Are: 
+15 Payal 50.4
+12 Anusha 50.6
+2 Nikki 51.0
+6 Brijmohan 57.6
+
+Total 12 students scored less than 50%The Students Are: 
+14 Shubham 25.0
+18 Shreyas 33.2
+13 Chatrapal 37.2
+7 Shivani 38.8
+11 Ritik 39.8
+19 Deepesh 42.6
+16 Garvit 44.6
+3 Prachi 45.2
+17 Ashwin 45.8
+5 Krishna 46.2
+4 Nilesh 46.8
+8 Mita 48.0
+This is the text that was added in append mode so is at the end of fileThis is the text that was added in append mode so is at the end of file

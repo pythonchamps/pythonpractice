@@ -1,0 +1,3 @@
+def listMap(lst,f):
+	for x in range(len(lst)):
+		lst[x] = f(lst[x])
